@@ -4,14 +4,37 @@
 }
 
 body{
-    background-color: rgb(226, 43, 202);
+    background-color: rgb(57, 187, 204);
 
 }
 
 main{
-    background-color: rgb(202, 158, 207);
+    background-color: rgb(193, 236, 241);
     width: 500px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px rgb(0, 0, 0.473);
+    box-shadow: 3px 3px 5px rgb(0, 0, 0);
+}
+
+h1{
+    font-size: 2em;
+    color: rgb(3, 32, 46);
+}
+
+h2{
+    font-size: 1em;
+    color:rgb(6, 43, 44);
+}
+
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(2, 26, 26);
+
+}
+
+
+a:hover{
+    text-decoration: underline;
+    color: rgb(3, 5, 5);
 }
